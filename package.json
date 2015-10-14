@@ -1,0 +1,24 @@
+{
+  "name": "InnoLab_IoT",
+  "version": "1.0.0",
+  "description": "Internet of things with Tessel prototype.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/senacor/InnoLab_IoT.git"
+  },
+  "keywords": [
+    "iot",
+    "javascript",
+    "senacor"
+  ],
+  "author": "Senacor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/senacor/InnoLab_IoT/issues"
+  },
+  "homepage": "https://github.com/senacor/InnoLab_IoT"
+}
